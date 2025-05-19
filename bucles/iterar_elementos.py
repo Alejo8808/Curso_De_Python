@@ -1,5 +1,5 @@
-animales =  ["gato","perro","loro","cocorilo"]
-numeros = [52,16,14,72]
+animales =  ["gato","perro","loro","cocorilo", "raton","elefante"]
+numeros = [52,16,14,72, 8, 4, 2, 1]
 
 #recorriendo la lista animales
 for animal in animales: 

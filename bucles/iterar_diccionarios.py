@@ -1,7 +1,7 @@
 diccionario = {
     "nombre": "Lucas",
     "apellido":"Dalto",
-    "subs": 1000000
+    "subs": 10000000
 }
 
 #recorriendo diccionario para obtener las claves
